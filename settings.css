@@ -1,0 +1,153 @@
+:root {
+	/* COLORS */
+	/* Use: var(--color-blue) */
+	
+	/* Blues */
+	--color-dark-blue: #003087;
+	--color-blue: #005eb8;
+	--color-bright-blue: #0072ce;
+	--color-light-blue: #41b6e6;
+	--color-aqua-blue: #00a9ce;
+	
+	/* Neutrals */
+	--color-black: #231f20;
+	--color-dark-gray: #425563;
+	--color-mid-gray: #768692;
+	--color-pale-gray: #e8edee;
+	
+	/* Greens */
+	--color-dark-green: #006747;
+	--color-green: #009639;
+	--color-light-green: #78be20;
+	--color-aqua-green: #00a499;
+	
+	/* Pinks/Purples */
+	--color-purple: #330072;
+	--color-dark-pink: #7c2855;
+	--color-pink: #ae2573;
+	
+	/* Reds */
+	--color-dark-red: #8a1538;
+	--color-red: #da291c;
+	
+	/* Oranges/Yellows */
+	--color-orange: #ed8b00;
+	--color-warm-yellow: #ffb81c;
+	--color-yellow: #fae100;
+}
+
+/* TAB BUTTONS */
+/* Blues */
+.tab button.colorDarkBlue {
+	color: #003087;
+}
+.tab button.colorBlue {
+	color: #005eb8;
+}
+.tab button.colorBrightBlue {
+	color: #0072ce;
+}
+.tab button.colorLightBlue {
+	color: #41b6e6;
+}
+.tab button.colorAquaBlue {
+	color: #00a9ce;
+}
+/* Greens */
+.tab button.colorDarkGreen {
+	color: #006747;
+}
+.tab button.colorGreen {
+	color: #009639;
+}
+.tab button.colorLightGreen {
+	color: #78be20;
+}
+.tab button.colorAquaGreen {
+	color: #00a499;
+}
+/* Pinks/Purples */
+.tab button.colorPurple {
+	color: #330072;
+}
+.tab button.colorDarkPink {
+	color: #7c2855;
+}
+.tab button.colorPink {
+	color: #ae2573;
+}
+/* Reds */
+.tab button.colorDarkRed {
+	color: #8a1538;
+}
+.tab button.colorRed {
+	color: #da291c;
+}
+/* Oranges/Yellows */
+.tab button.colorOrange {
+	color: #ed8b00;
+}
+.tab button.colorWarmYellow {
+	color: #ffb81c;
+}
+.tab button.colorYellow {
+	color: #fae100;
+}
+
+/* BODY COLOR */
+/* Blues */
+body.colorDarkBlue {
+	background-color: #003087;
+}
+body.colorBlue {
+	background-color: #005eb8;
+}
+body.colorBrightBlue {
+	background-color: #0072ce;
+}
+body.colorLightBlue {
+	background-color: #41b6e6;
+}
+body.colorAquaBlue {
+	background-color: #00a9ce;
+}
+/* Greens */
+body.colorDarkGreen {
+	background-color: #006747;
+}
+body.colorGreen {
+	background-color: #009639;
+}
+body.colorLightGreen {
+	background-color: #78be20;
+}
+body.colorAquaGreen {
+	background-color: #00a499;
+}
+/* Pinks/Purples */
+body.colorPurple {
+	background-color: #330072;
+}
+body.colorDarkPink {
+	background-color: #7c2855;
+}
+body.colorPink {
+	background-color: #ae2573;
+}
+/* Reds */
+body.colorDarkRed {
+	background-color: #8a1538;
+}
+body.colorRed {
+	background-color: #da291c;
+}
+/* Oranges/Yellows */
+body.colorOrange {
+	background-color: #ed8b00;
+}
+body.colorWarmYellow {
+	background-color: #ffb81c;
+}
+body.colorYellow {
+	background-color: #fae100;
+}
